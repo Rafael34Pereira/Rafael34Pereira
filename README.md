@@ -1,7 +1,7 @@
 ### Hi✋ Sou um estudante de Sistemas de Informação apaixonado por tecnologia. 
   Concentre-se naquilo que voçe é bom. Desligue todo o resto - By Steve Jobs. 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_umpereira_?igsh=dDYzaGh3b3B6dms4&utm_source=qr)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-pereira-b4195a219)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_umpereira_?igsh=dDYzaGh3b3B6dms4&utm_source=qr)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelpereiracurriculo777/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRafa&show_icons=true&theme=dracula)
